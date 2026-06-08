@@ -1,4 +1,4 @@
-﻿string cevap = "E";
+string cevap = "E";
 
 while (cevap == "E")
 {
@@ -41,7 +41,7 @@ while (cevap == "E")
     }
 
     Console.WriteLine("Tebrikler Bildiniz!");
-    Console.WriteLine($"{tahminSayisi} tahminde bildiniz.");
+    Console.WriteLine(tahminSayisi + "tahminde bildiniz.");
 
     do
     {
